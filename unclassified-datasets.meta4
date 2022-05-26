@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Meta4 document for all faildataset.com unclassified dataset archives.
+-->
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <file name="1373.tar.gz">
+        <hash type="md5">870af0cef3b8026f3cd7b888c4b495df</hash>
+        <hash type="sha-1">278f5b3d3143a0f9a69c8e7cea022782dffc0135</hash>
+        <hash type="sha-224">2938fd8db50fbe66c4de6a4d65c551923ce7ec48f6b30377b68e408f</hash>
+        <hash type="sha-256">43596d99a5fb1bdeb9dc9cd4d910ebab4edf435353e906804f1c4f68a731ff09</hash>
+        <hash type="sha-384">606d2c9299bbaf7fdc32ac3fab3d2f8016671652a8ccd5cbc823b0247654c2be80ae9cac00e564858ec7d0522ba5dc57</hash>
+        <hash type="sha-512">5d282c1df163518512373e90323f31c8ef1c5ad50c5afc062eb116931be87c34db8c492f270c8c37d2679e82424c04a40090fad0b2eabb97e75d2a2a2ad34edb</hash>
+        <hash type="sha-512/224">e0ba2615bef7b691ef3f0ded4ba49900507ef000464aada3877a4df8</hash>
+        <hash type="sha-512/256">b5393d2cebddd08ce15f47e820bdef8de757e6db12c3645afdb649472c1aa8a4</hash>
+        <hash type="sha3-224">6fa04818c022f1bdb9bd1a205c0a8522a1a29f5bc31d4c489df0835f</hash>
+        <hash type="sha3-256">d610f6bdfe29c0065253bd4a4127c91b8b7149b3129c80bf7752a8c9151908f1</hash>
+        <hash type="sha3-384">26635eaad9ae5cd076d35026b2388e4649729cfd8081e0e59b9143a78fd2c625afd352ba4dd11e20a39dc77283abdc46</hash>
+        <hash type="sha3-512">458c5cd18e9b740c1d7d14d3fe5086c73fcf15f2b0527d2825ea5187fd5bf84b7c36ad34618f1b03c34c1cf87380aaa8de5c63c94808013a0dcc7c27209f42a3</hash>
+        <size>1154208</size>
+        <url priority="1">https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231373/1373.tar.gz</url>
+        <url priority="2">https://falldataset.com/data/1373/1373.tar.gz</url>
+    </file>
+</metalink>
