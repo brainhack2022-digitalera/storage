@@ -16,7 +16,7 @@
         <hash type="sha3-256">63e11547f3a3d823579b77ab9e335e56562d7f8b866f7eeaf9ba204790e1a02e</hash>
         <hash type="sha3-384">774533d303964f0e1b8f88336e59c41b2506b48738baee6a1ed87afe53aa42d3c081b5e1ff6f325c946b09c3ef0a77b4</hash>
         <hash type="sha3-512">32cc97ec6f7d1b7107e821cfe544e83450c962d117599f7960e4e3f426ff544a3818b70ff06c4c41b462a3ad2857232c2abb83c880e4788b2cc31a4d51c9abd6</hash>
-        <size>656344</size>
+        <size>323893314</size>
         <url priority="1">https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%23786/786.tar.gz</url>
         <url priority="2">https://falldataset.com/data/786/786.tar.gz</url>
     </file>
@@ -33,7 +33,7 @@
         <hash type="sha3-256">117691c5b57b70111fcb59342c62cc9764e229ccd6084dee756a4cfebe239b5f</hash>
         <hash type="sha3-384">e3f002419fb4e1b26eead618518cc52796f0cd821022285e703fc1e1d4efc591dc4bb449ed1cfc338800c9d9686a9126</hash>
         <hash type="sha3-512">cf06a1ee8ea210f270b59a9e69cce61f65a91f83a4a0e55d4dfd05f61827d59ff91577712410e99d59ad341c8b33a6117a1f6724ddf88dc4d6a116b18565bccf</hash>
-        <size>334568</size>
+        <size>171295419</size>
         <url priority="1">https://github.com/brainhack2022-digitalera/storage/releases/download/%23dataset-fall-%23832/832.tar.gz</url>
         <url priority="2">https://falldataset.com/data/832/832.tar.gz</url>
     </file>
@@ -50,7 +50,7 @@
         <hash type="sha3-256">7320a0a3871eafb9fc87a061fd8b55314fba4da8f8650ab918495c434df592a9</hash>
         <hash type="sha3-384">2c8179b435a400733557c00d6155365d846091a5ab2ad5f33b170c41d7c4da5ff523f4eda3c62041df5b71f774391ca5</hash>
         <hash type="sha3-512">a7d2d0eb02acd7d8100651ee78f4b1b49c63e593479b59265cbf307a74e4a5664ae70765124700ae3a6eefd81a2b2ede3e1ef0bae7958cb140e657a1189b1c54</hash>
-        <size>777584</size>
+        <size>398120340</size>
         <url priority="1">https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%23925/925.tar.gz</url>
         <url priority="2">https://falldataset.com/data/925/925.tar.gz</url>
     </file>
