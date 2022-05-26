@@ -16,7 +16,7 @@
         <hash type="sha3-256">d610f6bdfe29c0065253bd4a4127c91b8b7149b3129c80bf7752a8c9151908f1</hash>
         <hash type="sha3-384">26635eaad9ae5cd076d35026b2388e4649729cfd8081e0e59b9143a78fd2c625afd352ba4dd11e20a39dc77283abdc46</hash>
         <hash type="sha3-512">458c5cd18e9b740c1d7d14d3fe5086c73fcf15f2b0527d2825ea5187fd5bf84b7c36ad34618f1b03c34c1cf87380aaa8de5c63c94808013a0dcc7c27209f42a3</hash>
-        <size>1154208</size>
+        <size>590952878</size>
         <url priority="1">https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231373/1373.tar.gz</url>
         <url priority="2">https://falldataset.com/data/1373/1373.tar.gz</url>
     </file>
