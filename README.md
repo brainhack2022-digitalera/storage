@@ -17,7 +17,7 @@ falldataset.com | 832  | Test     | [Link](https://github.com/brainhack2022-digi
 falldataset.com | 925  | Test     | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%23925/925.tar.gz) | fd17e009a6020c9bbe88412d680af360 | 8ce5a6fbb5200c11f7f19d5746f2bbdc60706d01
 falldataset.com | 1176 | Validate | 
 falldataset.com | 1219 | Train    | 
-falldataset.com | 1260 | Train    | 
+falldataset.com | 1260 | Train    | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231260/1260.tar.gz) | 529d7da0cd48332c2c9c5323ee37038b | bebcb60246df350e6cf6fd695f635657acb8e6f7
 falldataset.com | 1301 | Train    | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231301/1301.tar.gz) | 9812af94c3a89469030cf51a78a205a1 | 463bae7e7af3c0fa026f7950da7a1d6eb2c51da7
 falldataset.com | 1373 | ???      | 
 falldataset.com | 1378 | Train    | 
