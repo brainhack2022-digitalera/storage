@@ -20,9 +20,9 @@ falldataset.com | 1219 | Train    | [Link](https://github.com/brainhack2022-digi
 falldataset.com | 1260 | Train    | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231260/1260.tar.gz) | 529d7da0cd48332c2c9c5323ee37038b | bebcb60246df350e6cf6fd695f635657acb8e6f7
 falldataset.com | 1301 | Train    | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231301/1301.tar.gz) | 9812af94c3a89469030cf51a78a205a1 | 463bae7e7af3c0fa026f7950da7a1d6eb2c51da7
 falldataset.com | 1373 | ???      | 
-falldataset.com | 1378 | Train    | 
+falldataset.com | 1378 | Train    | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231378/1378.tar.gz) | 6cbd1945bb5e0038ea650ed6c6e4a83f | 1ffb2616ca6d3bd9833110ac71cf97c9cd2dfe5f
 falldataset.com | 1392 | Train    | 
 falldataset.com | 1790 | Train    | 
 falldataset.com | 1843 | Train    | 
-falldataset.com | 1954 | Train    | 
+falldataset.com | 1954 | Train    | [Link](https://github.com/brainhack2022-digitalera/storage/releases/download/dataset-fall-%231954/1954.tar.gz) | 2e5c1789b03eb305835eefc7e757757b | 40928b715ada91638f19d00990a65904ad91ccbb
 falldataset.com | 2123 | Validate | 
