@@ -1,5 +1,21 @@
-Lorem ipsum sit amet.
+# BrainHack 2022 - Team: DigitalEra (Storage)
 
+This GitHub Repository is intended to hold resources that the DigitalEra team may need.
+
+Currently, it's used to re-host the datasets from `falldataset.com` as the original download links take too long to download.
+
+Each dataset can be downloaded individually from the [releases page](https://github.com/brainhack2022-digitalera/storage/releases), or they can be downloaded using a Metalink 4.0-compatible downloader such as `aria2c`.
+
+To download all of the datasets using `aria2c`:
+
+```sh
+aria2c --check-integrity \
+  https://github.com/brainhack2022-digitalera/storage/raw/main/combined-datasets.meta4
+```
+
+Confusingly, the file is called `combined-datasets.meta4` even though it still downloads each dataset archive is still downloaded individually. Hence it should probably be called `all-datasets.meta4` to more-accurately reflect its purpose.
+
+`test-datasets.meta4`, `train-datasets.meta4`, `unclassified-dataset.meta4`, and `validate-dataset.meta4` can be used instead if only those specific datasets are required.
 
 ## Dataset
 
