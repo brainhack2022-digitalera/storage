@@ -21,7 +21,9 @@ Metalinks are useful because they allow one-shot downloads an checksum verificat
 
 With the `--check-integrity` flag, `aria2c` will not re-download files if they already already exist in the working (or specified) directory, have the same file size, and has a matching hash.
 
-## Dataset
+The datasets are also listed below with their MD5 and SHA-1 hash digests: 
+
+## Datasets
 
 | Source | Title | Type | Download URL | MD5 | SHA-1
 |-|-|-|-|-|-
