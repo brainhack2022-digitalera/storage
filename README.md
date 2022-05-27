@@ -15,7 +15,7 @@ aria2c --check-integrity \
 
 Note that we may move the Metalink files around, and it's recommended that you pin to a specific Git Commit Hash (i.e. replace `main` with a hash). However, we'll try to keep the download links in the GitHub release as-is.
 
-Confusingly, the file is called `combined-datasets.meta4` even though it still downloads each dataset archive is still downloaded individually. Hence it should probably be called `all-datasets.meta4` to more-accurately reflect its purpose.
+Confusingly, the file is called `combined-datasets.meta4` even though each dataset archive is still downloaded individually. Hence it should probably be called `all-datasets.meta4` to more-accurately reflect its purpose.
 
 `test-datasets.meta4`, `train-datasets.meta4`, `unclassified-dataset.meta4`, and `validate-dataset.meta4` can be used instead if only those specific datasets are required.
 
