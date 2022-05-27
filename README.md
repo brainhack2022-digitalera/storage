@@ -17,6 +17,10 @@ Confusingly, the file is called `combined-datasets.meta4` even though it still d
 
 `test-datasets.meta4`, `train-datasets.meta4`, `unclassified-dataset.meta4`, and `validate-dataset.meta4` can be used instead if only those specific datasets are required.
 
+Metalinks are useful because they allow one-shot downloads an checksum verification.
+
+With the `--check-integrity` flag, `aria2c` will not re-download files if they already already exist in the working (or specified) directory, have the same file size, and has a matching hash.
+
 ## Dataset
 
 | Source | Title | Type | Download URL | MD5 | SHA-1
