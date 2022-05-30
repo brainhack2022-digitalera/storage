@@ -24,7 +24,9 @@ Note that we may move the Metalink files around, and it's recommended that you p
 
 Confusingly, the file is called `combined-datasets.meta4` even though each dataset archive is still downloaded individually. Hence it should probably be called `all-datasets.meta4` to more-accurately reflect its purpose.
 
-`test-datasets.meta4`, `train-datasets.meta4`, `unclassified-dataset.meta4`, and `validate-dataset.meta4` can be used instead if only those specific datasets are required.
+`test-datasets.meta4`, `train-datasets.meta4`, `unclassified-dataset.meta4`, and `validate-dataset.meta4` can be used instead if only those specific datasets are required. Likewise, those ending with `-fixed.meta4` can be used to download only those specific fixed and non-broken datasets.
+
+For the fixed dataset archives, their extracted directory name is the original directory. For example, `1373-fixed.tar.gz` would extract a top-level `1373` directory, not `1373-fixed`.
 
 Metalinks are useful because they allow one-shot downloads and checksum verification.
 
