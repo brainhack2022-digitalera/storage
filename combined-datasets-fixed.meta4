@@ -33,7 +33,7 @@
         <hash type="sha3-384">12545758d6b75a10d16b41d3ac5078e46339b056528ff828f2b2a3c148ebb14d14370080087ec2c1e63b9a07ef26312f</hash>
         <hash type="sha3-512">ac90a93730e39c415ce42e1b5f40b68a09fa3741d0cf06b1c27f965ca9cefab59a2e8aff75fdc238043485787a241f9db55e467c2d08d44fd448a5e2f42ea554</hash>
         <size>24252</size>
-        <url priority="1">https://github.com/brainhack2022-digitalera/storage/raw/main/train-datasetsifixed.meta4</url>
+        <url priority="1">https://github.com/brainhack2022-digitalera/storage/raw/main/train-datasets-fixed.meta4</url>
     </file>
     <file name="unclassified-datasets-fixed.meta4">
         <hash type="md5">e147a67a42f09e3b1c122f6fe385b7a5</hash>
