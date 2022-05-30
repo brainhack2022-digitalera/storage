@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    A meta-Meta4 document Meta4 documents for all faildataset.com arhcives.
+-->
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <file name="test-datasets.meta4">
+        <hash type="md5">7cf30b83992b25e4eb96f16db419502d</hash>
+        <hash type="sha-1">7621c4a0d8bef97d6895dfa03dc80ddea2d0aeb6</hash>
+        <hash type="sha-224">39a37e3bacaae69abe5055bd9797eb2d5141cd4b50d324807286dfcc</hash>
+        <hash type="sha-256">60ed32d3df0b9dbf78683fa142426b7da3bdc630cef84b7d12e5545ef5ba0787</hash>
+        <hash type="sha-384">3d43b39cd7421120790da2b1d659e6bfeb7cab23a3fab65c1179fe4627c377bfdb60fb1338f1224195eb0bd91f88189c</hash>
+        <hash type="sha-512">211758bbe5806008279078a9c5c5a51b52cc9fe615ebaf020bceec349352b166d9fb52b8242870eafd8bdcd78c40f2877296881a2c611f19b5da1b53078745eb</hash>
+        <hash type="sha-512/224">0817d33c25e9a0cb2703246622caa598c62a36729f9e4b4cd8df53e5</hash>
+        <hash type="sha-512/256">307e758a0e692eea05c124979b99b7d11b23bdccfefa43fb9a42c46f47525504</hash>
+        <hash type="sha3-224">a906f8b354e6d0dc231219b8df5817ccf79212952fdb951d60b4f7a6</hash>
+        <hash type="sha3-256">5900da3995f0ee29fd638322b0966841ee8dca51968b3a1495f7b4060318c601</hash>
+        <hash type="sha3-384">c742650a188d6a92f614ed118f7649fc6ecd7df7d0ae0b4e8e13dc754aae6882531a3b00d0f5f84cb1b0bff38cd2632f</hash>
+        <hash type="sha3-512">420e1842b8b64be85c2068c1dbc6b0b36dfb547db7b0bede08ee675792da6734cd6e14a95b525f60a8a6bae7772862b210ca7c7cd00dde0feae200924baea395</hash>
+        <size>5015</size>
+        <url priority="1">https://github.com/brainhack2022-digitalera/storage/raw/main/test-datasets.meta4</url>
+    </file>
+    <file name="train-datasets-fixed.meta4">
+        <hash type="md5">97415e94ddc141036e64e05eb4d93321</hash>
+        <hash type="sha-1">b90d836dc53dbb52f9d2429ce424a1eaea062297</hash>
+        <hash type="sha-224">af3e90934f54d0a431027a19977044651dde27f12364104c2f4295d2</hash>
+        <hash type="sha-256">465eee8127a62c88d83183255b921b01fdb1d5342fea232fecec338133426f33</hash>
+        <hash type="sha-384">f9bcba4e0eed8d24af1912d2599d9dc8d76d4b246a2d15dff74eab05f85c60701a74eb8458f0a01ef7fac3ba89dd0eac</hash>
+        <hash type="sha-512">aef700632d894a6f4dfbda2d8fa2bf10cf25c8a3c6ca6c902a9be98509e48f1cb456f99adf30dba4b9abe1729fd81e21f2fc7554d77836dc444df5b99b39a955</hash>
+        <hash type="sha-512/224">d5983baf806296bd22f673c25e90a35ce488d10f38cddf4493afe70b</hash>
+        <hash type="sha-512/256">b973d53e9f8b60372a2468a9f38a7f40f4e0d0f0ee19d4fc4bfd63482dee7e4e</hash>
+        <hash type="sha3-224">0c2132d88c237bea0436363e7bab61aecca8e9acfd1f9136f39f9342</hash>
+        <hash type="sha3-256">563a6e34ff7ddaf2c5f413ec7bea1235c73a188ec538204c26d86580563d0186</hash>
+        <hash type="sha3-384">12545758d6b75a10d16b41d3ac5078e46339b056528ff828f2b2a3c148ebb14d14370080087ec2c1e63b9a07ef26312f</hash>
+        <hash type="sha3-512">ac90a93730e39c415ce42e1b5f40b68a09fa3741d0cf06b1c27f965ca9cefab59a2e8aff75fdc238043485787a241f9db55e467c2d08d44fd448a5e2f42ea554</hash>
+        <size>24252</size>
+        <url priority="1">https://github.com/brainhack2022-digitalera/storage/raw/main/train-datasetsifixed.meta4</url>
+    </file>
+    <file name="unclassified-datasets-fixed.meta4">
+        <hash type="md5">e147a67a42f09e3b1c122f6fe385b7a5</hash>
+        <hash type="sha-1">1117b29944627b594e2be1b823754acad4fe2dca</hash>
+        <hash type="sha-224">f6cb9ca971e31155be6987be62c0fcd572d9f30118713df21139d901</hash>
+        <hash type="sha-256">270151732335e4f65829d6d095c797dd0790f589e057763a613dc7f0b00496d4</hash>
+        <hash type="sha-384">603e0d31844b3473babc10f99445614a384f14faed7b771a8e852aabe25bef050491f479151680a4a8229b2de39bcdfe</hash>
+        <hash type="sha-512">a243b56b736bd1a10007f3da1193580fc059e4617604aea211bf76136f7f35a4f146df1bf7b8d23b968023ae0ad8586108e6c5bb412e09b1d200f5c747928831</hash>
+        <hash type="sha-512/224">92644e8a6d95e997dec172193f54fbba1c8cfdc6fab455dd4877c1cb</hash>
+        <hash type="sha-512/256">6d90cd2134b3508a1f94144dd7b89d1295972882cfb80fb66b4ece05167355ec</hash>
+        <hash type="sha3-224">a2d1fe2216da46d53f1ef14e2730de65b124dc2991058c5593c0f3df</hash>
+        <hash type="sha3-256">e32f7ca00c014a30119f14703095cd0ff22f0acbe2d898007ee7898b9388a68e</hash>
+        <hash type="sha3-384">e04bf74e1a478f3d9b141cdadc72eb2230d567af0cd6927d22c43d4f5dc3b09c61d696cf3779bd42258aac7278d8cdae</hash>
+        <hash type="sha3-512">4c83c686752e10157bdc3e88874a89ceab0c414e8ceea5e89f1d4705aadebb7fdd77ab0d915f3f537f6d57dfe64ab86e652a54fb3d5892f08174f81630d0caf0</hash>
+        <size>1735</size>
+        <url priorty="1">https://github.com/brainhack2022-digitalera/storage/raw/main/unclassified-datasets-fixed.meta4</url>
+    </file>
+    <file name="validate-datasets.meta4">
+        <hash type="md5">9ff3d74969441da06ec8532a0b034c69</hash>
+        <hash type="sha-1">8133100977d549e183fe66e409dbb3dff4d9e370</hash>
+        <hash type="sha-224">b7bc22c8f0858727f12f416552b0d3b3e7abf17411da1192dedf0a55</hash>
+        <hash type="sha-256">96ec19012f10ec09c7c966bbd1e67d7356f9825d4832c1269429150024250513</hash>
+        <hash type="sha-384">b8cf78eaecca362ec56475896ea0b194ffc5434f3114ad1d6dcb2c0004871ee18e107925dd30977b0059b5b01b2fe745</hash>
+        <hash type="sha-512">a958e787d03987c530179f6792481135cc59791eec7e257667cf1c3bda7812bb0355d8671994404b3811a57a0f1bff7b46589ee691070a9b1e8ef94787054f21</hash>
+        <hash type="sha-512/224">4d78156e46732a0c21da306278c5c442d6892547ec2eeaed4cf7bd76</hash>
+        <hash type="sha-512/256">24535a753b6eb1522bd6c8a6423457f1765d7092174c2acdc76d578efedde1a5</hash>
+        <hash type="sha3-224">c074a1de578c3fb8a51b9ef147ac6d5cffd5c7a8ecc19c1fb5062f06</hash>
+        <hash type="sha3-256">45ddf815c74b588d1714e71f65d33f9b586ae079ec0cd0f02ed61ef854c696c0</hash>
+        <hash type="sha3-384">923eab70b3247768353bc894a8e5f552d07d29faf61c73ee7f6ff681fb23c75145ee9ff925e7d857efcb134aacab09b2</hash>
+        <hash type="sha3-512">d970cb924fb01140d2d6d65cc4f94c92a43a5d4fea3d01364c21285e3dadcc8b050cacd50470f55e58b204811471eba54094d222355e4e9a70cffa97b83941b9</hash>
+        <size>3415</size>
+        <url priority="1">https://github.com/brainhack2022-digitalera/storage/raw/main/validate-datasets.meta4</url>
+    </file>
+</metalink>
