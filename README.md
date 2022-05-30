@@ -13,6 +13,13 @@ aria2c --check-integrity \
   https://github.com/brainhack2022-digitalera/storage/raw/main/combined-datasets.meta4
 ```
 
+Certain datasets are missing certain files. To download all of the fixed and not-broken datasets using `aria2c`:
+
+```sh
+aria2c --check-integrity \
+  https://github.com/brainhack2022-digitalera/storage/raw/main/combined-datasets-fixed.meta4
+```
+
 Note that we may move the Metalink files around, and it's recommended that you pin to a specific Git Commit Hash (i.e. replace `main` with a hash). However, we'll try to keep the download links in the GitHub release as-is.
 
 Confusingly, the file is called `combined-datasets.meta4` even though each dataset archive is still downloaded individually. Hence it should probably be called `all-datasets.meta4` to more-accurately reflect its purpose.
